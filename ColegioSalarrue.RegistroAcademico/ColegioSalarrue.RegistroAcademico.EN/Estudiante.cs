@@ -35,5 +35,6 @@ namespace ColegioSalarrue.RegistroAcademico.EN
             Telefono = pTelefono;
             IdGrado = pIdGrado;
         }
+        public Walter(){};
     }
 }
